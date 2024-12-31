@@ -1436,15 +1436,17 @@
     text-decoration: underline;
 }
 .guide_top .guide_wrap .imgbox {
-    padding: 20px;
     border: 1px solid rgba(0, 0, 0, 0);
     width: 588px;
     /* width: 40.91%; */
     /* height: auto; */
     height: 321px;
-    background: url('/sub_images/viewing_guide_img.jpg') center no-repeat;
+    
 }
-
+.guide_top .guide_wrap .imgbox img {
+    width:588px;
+    height:321px;
+}
 .show {
     transform: translateX(100px);
     opacity: 0;
