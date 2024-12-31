@@ -1442,7 +1442,7 @@
     /* width: 40.91%; */
     /* height: auto; */
     height: 321px;
-    background: url(/images/sub_images/viewing_guide_img.jpg) center no-repeat;
+    background: url('/images/sub_images/viewing_guide_img.jpg') center no-repeat;
 }
 
 .show {
